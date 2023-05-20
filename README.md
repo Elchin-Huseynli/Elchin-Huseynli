@@ -18,35 +18,20 @@
 - ✍️ &nbsp; Writing code and watching movies.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring Boot | Python | C++ 
-- 🌐 &nbsp; Backend | Spring Boot | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; PostgreSQL | SQL | Postman
-- 🔧 &nbsp; Intellij IDEA | PyCharm | CLion | DataGrip | Visual Studio Code | Git
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/elcin.huseynli.5895?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_elchinhuseynli_?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elchinhuseynli?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAio%2BFk3QS%2BaQiwxL%2BrDoVA%3D%3D) 
 
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Elchin-Huseynli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elchin-Huseynli&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elchin-Huseynli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Elchin-Huseynli&theme=github-dark-blue)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Elchin-Huseynli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elchin-Huseynli&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elchin-Huseynli&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Elchin-Huseynli/github-readme-stats)
-
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://instagram.com/_elchinhuseynli_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50" /></a>  
-&nbsp; <a href="https://www.facebook.com/elcin.huseynli.5895?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" width="50" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ⭐️ From [elchinhuseynli](https://github.com/Elchin-Huseynli)
