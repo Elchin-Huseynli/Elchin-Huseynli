@@ -32,6 +32,7 @@
 <p align="center">
 &nbsp; <a href="https://instagram.com/_elchinhuseynli_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50" /></a>  
 &nbsp; <a href="https://www.facebook.com/elcin.huseynli.5895?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/elchinhuseynli/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/640px-Linkedin.svg.png" width="50" /></a>
 </p>
 
 ---
