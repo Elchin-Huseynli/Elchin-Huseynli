@@ -28,6 +28,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elchin-Huseynli&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elchin-Huseynli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elchin-Huseynli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Elchin-Huseynli&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ## 🌐 Socials:
 <p align="center">
 &nbsp; <a href="https://instagram.com/_elchinhuseynli_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50" /></a>  
